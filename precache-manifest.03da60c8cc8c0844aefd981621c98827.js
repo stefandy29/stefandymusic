@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "66068692e5f4fe4bbce5fbfc3f3d6d39",
+    "revision": "032e76a16e59873cde7599fe43576710",
     "url": "/stefandymusic/index.html"
   },
   {
