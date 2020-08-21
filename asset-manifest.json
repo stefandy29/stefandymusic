@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/stefandy29/react-gh-pages/static/css/main.5cfa6024.chunk.css",
+    "main.js": "/stefandy29/react-gh-pages/static/js/main.f5bb505f.chunk.js",
+    "main.js.map": "/stefandy29/react-gh-pages/static/js/main.f5bb505f.chunk.js.map",
+    "runtime-main.js": "/stefandy29/react-gh-pages/static/js/runtime-main.5e37d486.js",
+    "runtime-main.js.map": "/stefandy29/react-gh-pages/static/js/runtime-main.5e37d486.js.map",
+    "static/js/2.0a95a209.chunk.js": "/stefandy29/react-gh-pages/static/js/2.0a95a209.chunk.js",
+    "static/js/2.0a95a209.chunk.js.map": "/stefandy29/react-gh-pages/static/js/2.0a95a209.chunk.js.map",
+    "index.html": "/stefandy29/react-gh-pages/index.html",
+    "precache-manifest.8a45299510ccdfeb54cea05323a69df5.js": "/stefandy29/react-gh-pages/precache-manifest.8a45299510ccdfeb54cea05323a69df5.js",
+    "service-worker.js": "/stefandy29/react-gh-pages/service-worker.js",
+    "static/css/main.5cfa6024.chunk.css.map": "/stefandy29/react-gh-pages/static/css/main.5cfa6024.chunk.css.map",
+    "static/js/2.0a95a209.chunk.js.LICENSE.txt": "/stefandy29/react-gh-pages/static/js/2.0a95a209.chunk.js.LICENSE.txt",
+    "static/media/bc.png": "/stefandy29/react-gh-pages/static/media/bc.eb7f4d35.png",
+    "static/media/coverphoto.png": "/stefandy29/react-gh-pages/static/media/coverphoto.f7fdd446.png",
+    "static/media/logo.svg": "/stefandy29/react-gh-pages/static/media/logo.5d5d9eef.svg",
+    "static/media/yb.png": "/stefandy29/react-gh-pages/static/media/yb.c0baf485.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e37d486.js",
+    "static/js/2.0a95a209.chunk.js",
+    "static/css/main.5cfa6024.chunk.css",
+    "static/js/main.f5bb505f.chunk.js"
+  ]
+}
