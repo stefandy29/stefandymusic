@@ -1,0 +1,25 @@
+.Bandcamp {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+h1,
+figcaption {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (min-width: 768px) {
+  .Bandcamp {
+    width: 768px;
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+  }
+}

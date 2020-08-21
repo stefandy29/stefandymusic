@@ -1,0 +1,24 @@
+.titleshow {
+  display: flex;
+  justify-content: space-around;
+  position: static;
+  margin: 5px;
+}
+
+.titleshow a {
+  text-decoration: none;
+  color: black;
+  font-size: 1em;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.titleshow a:hover {
+  background-color: rgba(41, 41, 41, 0.336);
+  transition: 0.5s;
+}
+
+.titleshow li {
+  padding: 10px;
+}
